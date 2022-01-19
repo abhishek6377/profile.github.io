@@ -1,0 +1,71 @@
+*{
+
+    padding: 0%;
+    margin: 0%;
+}
+.slidebar{
+    background-color: red;
+    width: 30vh;
+    height: 100vh;
+}
+.slidebar nav{
+
+padding: 35px;
+
+
+
+}
+.slidebar nav li{
+    list-style: none;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolders;
+    padding: 20px 0;
+
+}
+.main{
+background-color: aqua;
+width: 200vh;
+
+}
+.infocontainer{
+    background-color: rgb(58, 253, 10);
+    height: 65vh;
+    width: 80vw;
+    margin: 114px auto;
+    display: flex;
+    justify-content: space-around;
+}
+.container{
+    display: flex;
+}
+
+.divinfo{
+    display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 40px;
+   
+}
+.divpics img{
+    margin: 40px;
+    width:200px;
+    
+    /* height: 100px; */
+}
+.hello{
+font-size: 60px;
+font-weight: lighter;
+}
+.name{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.about{
+    font-weight: lighter;
+    font-size: 40px;
+
+}
+.buttons button{
+
+}
